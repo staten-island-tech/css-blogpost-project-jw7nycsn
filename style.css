@@ -1,12 +1,16 @@
 body{
     background-color: #536DFE;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
 }
 img{
-    width: 350px;
+    width: 500px;
     padding: 15px;
+    margin: auto;
 }
-
 div{
     background-color: #757575;
-    margin: 15px;
+    margin: 500px;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
